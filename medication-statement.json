@@ -1,0 +1,52 @@
+{
+  "id": "52a7ed70-d307-445f-ae3f-9c61b340dc70",
+  "slug": "medication-statement",
+  "version": "",
+  "title": "Medication Statement",
+  "description": "Medication Statement Example",
+  "status": "active",
+  "subject_type": "encounter",
+  "styling_metadata": {},
+  "questions": [
+    {
+      "id": "20ba2c55-37cf-43b2-90ab-59a9e36851a3",
+      "text": "Medication Statement",
+      "type": "structured",
+      "link_id": "1",
+      "structured_type": "medication_statement"
+    }
+  ],
+  "created_by": {
+    "meta": {},
+    "id": "b24067d6-2d88-40f1-a7f6-97100c64ea0a",
+    "first_name": "Admin",
+    "last_name": "Admin",
+    "phone_number": "+919696969696",
+    "prefix": null,
+    "suffix": null,
+    "last_login": "2025-06-03T06:21:59.175181Z",
+    "profile_picture_url": "https://care-data.blr1.digitaloceanspaces.com/care-data/avatars/b24067d6-2d88-40f1-a7f6-97100c64ea0a_71bf4bcf819adfae.png",
+    "user_type": null,
+    "gender": null,
+    "username": "admin",
+    "mfa_enabled": false,
+    "deleted": false
+  },
+  "updated_by": {
+    "meta": {},
+    "id": "b24067d6-2d88-40f1-a7f6-97100c64ea0a",
+    "first_name": "Admin",
+    "last_name": "Admin",
+    "phone_number": "+919696969696",
+    "prefix": null,
+    "suffix": null,
+    "last_login": "2025-06-03T06:21:59.175181Z",
+    "profile_picture_url": "https://care-data.blr1.digitaloceanspaces.com/care-data/avatars/b24067d6-2d88-40f1-a7f6-97100c64ea0a_71bf4bcf819adfae.png",
+    "user_type": null,
+    "gender": null,
+    "username": "admin",
+    "mfa_enabled": false,
+    "deleted": false
+  },
+  "tags": []
+}
